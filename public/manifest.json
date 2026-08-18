@@ -1,0 +1,32 @@
+{
+  "name": "Mahmudul Hasan Nayeem",
+  "short_name": "Nayeem",
+  "description": "Experienced remote front-end developer based in Dhaka, Bangladesh, specializing in the latest technologies.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/me.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/me.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["productivity", "business"],
+  "screenshots": [
+    {
+      "src": "/me.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# Allow all crawlers including Google AdSense
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /.next/
+Disallow: /_next/
+
+# Google AdSense crawler
+User-agent: Googlebot
+Allow: /
+
+# Sitemap location
+Sitemap: https://madebynayeem.com/sitemap.xml
